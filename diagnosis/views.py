@@ -167,3 +167,4 @@ def TestCovid(request):
     return render(request,'diagnosis/input.html',context)
 
 
+"niahl"
